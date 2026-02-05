@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AirGuard Mission Control",
+  "description": "Pre-flight safety layer and mission planning for drone pilots with AI regulatory assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
